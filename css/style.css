@@ -1,6 +1,6 @@
 body{
     background-color: #EEE;
-    font-family: courier;
+    font-family: Helvetica, Arial, sans-serif;
     background-image: url(../img/photo2.jpg);
 }
 
@@ -40,7 +40,7 @@ h1, h2, h3{
 
 #nav ul{
     list-style-type: none;
-    padding: 0;
+    padding: 10px;
 }
 
 #nav.selected{
@@ -57,6 +57,5 @@ h1, h2, h3{
     padding: 10px;
     background-color: #999999;
     color: white;
-    font-family: Helvetica, Arial, sans-serif;
     text-align: right;
 }
