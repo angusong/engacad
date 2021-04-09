@@ -1,6 +1,6 @@
 body{
     background-color: #EEE;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: courier;
     background-image: url(../img/photo2.jpg);
 }
 
@@ -57,5 +57,6 @@ h1, h2, h3{
     padding: 10px;
     background-color: #999999;
     color: white;
+    font-family: Helvetica, Arial, sans-serif;
     text-align: right;
 }
