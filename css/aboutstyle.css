@@ -1,7 +1,6 @@
 body{
-    background-color: powderblue;
-    font-family: Helvetica, Arial, sans-serif;
-    background image: url(../img/photo3.jpg);
+    font-family: hack;
+    background-image: url(../img/photo2.jpg);
 }
 
 a{
@@ -9,20 +8,20 @@ a{
     color: red;
 }
 
-h1, h2 , h3{
+h1, h2, h3{
     margin: 0;
 }
 
 #container{
-    background-color: lavender;
-    width: 1000px;
+    background-color: white;
+    width: 900px;
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
 }
 
 #header{
-    background-color: aqua;
+    background-color: Gold;
     color: white;
     text-align: center;
     padding: 10px;
@@ -39,7 +38,7 @@ h1, h2 , h3{
 
 #nav ul{
     list-style-type: none;
-    padding: 10px;
+    padding: 0;
 }
 
 #nav.selected{
@@ -51,13 +50,10 @@ h1, h2 , h3{
     align-items: middle;
 }
 
-img.col{
 
-    width: 100%;
-}
 
 #main{
-    width: 800px;
+    width: 700px;
     float: right;
 }
 
